@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "欢迎来到我的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## 欢迎来到我的个人主页
+
+
 ### **自我简介**
 我是来自重庆三峡学院数据科学与大数据技术专业的学生。我对数据分析、人工智能和编程有着浓厚的兴趣，尤其是擅长C#和Python语言的开发工作。这些技能不仅让我能够高效解决问题，还能让我更深入地理解数据背后的故事。
 
@@ -15,7 +16,6 @@ redirect_from:
 
 羽毛球和CSGO是我的两大兴趣爱好。羽毛球让我学会了坚持和团队合作，而CSGO则让我找到了释放激情、挑战自我的的乐趣。这些爱好不仅丰富了我的课余生活，也帮助我保持了积极向上的生活态度。
 
----
 
 ### **专业技能**
 - **编程语言**：
@@ -28,7 +28,6 @@ redirect_from:
   - 开发工具：VS Code、Jupyter Notebook。
   - 操作系统：Windows / Linux（熟练使用）。
 
----
 
 ### **兴趣爱好**
 - **羽毛球**：喜欢打比赛，注重团队配合和体能训练。曾获得校内比赛第三名。
@@ -37,7 +36,6 @@ redirect_from:
 此外，我还有一个特别的兴趣——研究如何用编程语言解决数学问题。这让我对算法设计和优化产生了浓厚的兴趣，并促使我在课后
 主动查阅相关资料进行深入学习。
 
----
 
 ### **证书与奖励**
 - **英语能力**：
